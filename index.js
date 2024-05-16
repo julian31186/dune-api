@@ -4,7 +4,7 @@ const app = express();
 const PORT = 3000; 
 
 const fs = require('fs');
-const json = fs.readFileSync('../scraper/data.json');
+const json = fs.readFileSync('./scraper/data.json');
 
 const data = JSON.parse(json);
 
