@@ -19,8 +19,5 @@ Returns 200 and a response body with a description and wiki link field if the en
 ```
 
 
-
-
-
-(Case insensitive)
+(Case insensitive)\
 (Spaces substituted with underscore '_')
