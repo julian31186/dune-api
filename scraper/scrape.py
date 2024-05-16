@@ -10,7 +10,8 @@ soup = BeautifulSoup(response.content, 'html.parser')
 page_cnt = 0
 data = {}
 cnt = 0
-throttle = math.inf
+throttle = 0
+
 
 #Clear files before scraping
 with open('./README.txt', 'w') as f:
