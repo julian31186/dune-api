@@ -26,3 +26,4 @@ Returns 200 and a response body with a description and wiki link field if the en
 
 - Get random term/name
 - Add Quotes
+- Write tests
