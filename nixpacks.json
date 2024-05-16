@@ -1,0 +1,15 @@
+{
+    "phases": {
+      "install": {
+        "commands": [
+          "sudo apt install nodejs"
+        ]
+      },
+      "start": {
+        "commands": [
+          "cd server && npm start"
+        ]
+      }
+    }
+  }
+  
