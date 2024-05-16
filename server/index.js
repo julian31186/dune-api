@@ -8,7 +8,7 @@ const json = fs.readFileSync('../scraper/data.json');
 
 const data = JSON.parse(json);
 
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
     console.log(`Server is running on port ${PORT}.`);
 });
 
