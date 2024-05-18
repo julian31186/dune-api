@@ -1,5 +1,9 @@
 # Dune API
 
+## URL
+
+https://dune-api-production.up.railway.app/
+
 ## All Endpoints Provided
 
 https://pastebin.com/Hghynju6
@@ -24,6 +28,5 @@ Returns 200 and a response body with a description and wiki link field if the en
 
 ## TODO
 
-- Get random term/name
 - Add Quotes
 - Write tests
