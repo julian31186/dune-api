@@ -22,9 +22,16 @@ Returns 200 and a response body with a description and wiki link field if the en
 }
 ```
 
+`GET /dune/random`
+
+Returns a random term from all possible endpoints shown within the pastebin (same response body as above)
+
+
+## Note
 
 (Case insensitive)\
 (Spaces substituted with underscore '_')
+
 
 ## TODO
 
